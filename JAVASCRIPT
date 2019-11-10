@@ -87,3 +87,21 @@ LITE-SERVER:(LOCAL SERVER)
 
 
 ****************************************************************************************************
+
+# GIF IMAGE:
+   Imgur Search:
+     [
+           1.Looking for a post shared to Imgur with the exact title 'cats'? => Type 'titles:cats' into search,
+           
+           2.File Type => Cat GIFs only? Type in 'cats ext:gif',
+           
+           3.Searching for a user with the name 'cats' => can type 'user:cats' into the search bar,
+           
+           4.Just want to see posts shared to Imgur tagged with 'cats'? Of course you do. Type 'tag:cats' into the search bar.
+     ]
+    
+
+
+
+
+
