@@ -2,17 +2,26 @@
 Inbuilt Browser Commands:
 fetch is built into the browser.
 
-
+**************************************************************************************************
 #HTML:
 
 
 
+
+
+**************************************************************************************************
 #CSS:
 CSS Framework or Library:
 1.Skeleton CSS [Lighter than Bootstrap]
 CND Link:https://cdnjs.cloudflare.com/ajax/libs/skeleton/2.0.4/skeleton.css
 
 
+CSS Rules:
+
+Links
+
+
+***************************************************************************************************
 #API's:
 
 Points om API:
