@@ -16,7 +16,8 @@ CND Link:https://cdnjs.cloudflare.com/ajax/libs/skeleton/2.0.4/skeleton.css
 #API's:
 
 Points om API:
-1.API allows you to specify a page.[next or [previous button]
+1.API allows you to specify a page.
+[next] or [previous button]
 
 API's to develop Webpages.
 
