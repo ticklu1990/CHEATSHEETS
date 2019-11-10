@@ -1,6 +1,7 @@
 #JAVASCRIPT: 
 Inbuilt Browser Commands:
-fetch is built into the browser.
+[fetch]=> is built into all the modern browser.
+
 
 **************************************************************************************************
 #HTML:
@@ -14,6 +15,15 @@ fetch is built into the browser.
 CSS Framework or Library:
 1.Skeleton CSS [Lighter than Bootstrap]
 CND Link:https://cdnjs.cloudflare.com/ajax/libs/skeleton/2.0.4/skeleton.css
+
+Search Bar:[Skeleton CSS]
+
+Full Width Search BAR
+<form>
+<label for="searchTerm">Search Term</label>
+input class="u-full-width" type="text" id="searchTerm" name="searchTerm">
+<button>Search</button>
+</form>
 
 
 CSS Rules:
@@ -29,8 +39,17 @@ Points om API:
 [next] or [previous button]
 
 API's to develop Webpages.
+Unsplash:
+1.https://unsplash.com/oauth/applications/100519
 
+youtube channels:
+=>API university
 
+#TOOLS FOR THE WEB BROWSER:
+LITE-SERVER:
 
+1.install:
+npm install -g lite-server.
 
-
+2.run
+lite-server
