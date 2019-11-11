@@ -100,6 +100,11 @@ LITE-SERVER:(LOCAL SERVER)
            4.Just want to see posts shared to Imgur tagged with 'cats'? Of course you do. Type 'tag:cats' into the search bar.
      ]
     
+     GIPHY:
+     
+     [
+         Loading Page Animations: url:https://giphy.com/gifs/TvLuZ00OIADoQ
+     ]
 
 
 
