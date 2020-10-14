@@ -197,6 +197,39 @@
   
   https://www.googleapis.com/apiName/apiVersion/resourcePath?parameters
   
+  Because all API resources have unique HTTP-accessible URIs,
+  REST enables data caching and is optimized to work with the web's distributed infrastructure.
+  
+  You may find the method definitions in the HTTP 1.1 standards documentation useful; 
+  they include specifications for GET, POST, PUT, and DELETE.
+  
+  REST in the Books API:
+  The supported Books operations map directly to REST HTTP verbs, as described in Books API operations.
+  The specific format for Books API URIs are:
+  
+  https://www.googleapis.com/books/v1/{collectionName}/resourceID?parameters
+  
+  where resourceID is the identifier for a volume or bookshelf resource, 
+  and parameters are any parameters to apply to the query.
+  
+  The format of the resourceID path extensions lets you identify the resource you're currently operating on, for example:
+  
+    
+  
+  https://www.googleapis.com/books/v1/volumes
+  https://www.googleapis.com/books/v1/volumes/volumeId
+  https://www.googleapis.com/books/v1/mylibrary/bookshelves
+  https://www.googleapis.com/books/v1/mylibrary/bookshelves/shelf
+  https://www.googleapis.com/books/v1/mylibrary/bookshelves/shelf/volume
+  
+  
+  Note that operations with mylibrary in the URI apply only to the currently authenticated user's private library data. 
+  The full set of URIs used for each supported operation in the API is summarized in the Books API Reference document.
+  
+  *Pagination : how to use:
+  
+  
+  
   
   
   
